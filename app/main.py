@@ -85,6 +85,32 @@ def generar_contrasena_aleatoria(texto):
                 siguiente_letra = texto[i + 1].lower()
                 if siguiente_letra in palabras_por_letra:
                     contrasena_aleatoria.append(random.choice(palabras_por_letra[siguiente_letra]))
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    print("1")
+                    
         else:
             # Ignorar caracteres no alfabéticos
             continue
