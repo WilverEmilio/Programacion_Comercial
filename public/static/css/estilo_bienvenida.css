@@ -1,0 +1,11 @@
+/* Estilos adicionales */
+body {
+    padding-top: 50px; /* Agrega espacio arriba para el botón de cerrar sesión */
+    text-align: center; /* Centra el texto */
+}
+
+.logout-btn {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
